@@ -46,7 +46,7 @@ Additionally, it would be interesting to compare the results of this algorithm t
 
 ---
 
-** References**
+**References**
 
 1. https://www.kaggle.com/ritamenezes/covid19-complete-genomes
 
